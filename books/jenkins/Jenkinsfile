@@ -12,7 +12,7 @@ pipeline {
     environment {
         //TODO: Edit these vars as per your env
         DEV_PROJECT = "icanhazmatt-books-dev"
-        STAGE_PROJECT = "icanhazzmatt-books-stage"
+        STAGE_PROJECT = "icanhazmatt-books-stage"
         APP_GIT_URL = "https://github.com/mattshunter/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.ocp-na2.prod.nextcle.com/repository/nodejs"
 
